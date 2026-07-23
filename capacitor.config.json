@@ -1,0 +1,9 @@
+{
+  "appId": "id.my.ahatest.app",
+  "appName": "AHA Test",
+  "webDir": "www",
+  "server": {
+    "url": "https://ahatest.my.id/",
+    "cleartext": false
+  }
+}
